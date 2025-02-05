@@ -2,7 +2,7 @@
 
 A simple Chrome extension that allows you to set custom playback speeds for YouTube videos beyond the default options. With this extension, you can set any playback speed between 0.1x and 16x using a convenient input field that appears on your YouTube page.
 
-![Extension Screenshot](SCR-20250205-sico.jpeg)
+![Extension Screenshot](./SCR-20250205-sico.jpeg)
 
 ## Features
 
@@ -62,14 +62,3 @@ Feel free to contribute to this project by:
 - Creating issues for bugs or feature requests
 - Submitting pull requests with improvements
 - Suggesting new features or enhancements
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Author
-
-[Your Name]
-
----
-Made with ❤️ for YouTube power users
